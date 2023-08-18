@@ -36,9 +36,9 @@ $ mvn clean verify
 
 ## Screenshots
 
-![Screenshot]()
+![Screenshot](https://raw.githubusercontent.com/moisesGlb/travelCuriousSerenity/main/extras/screenshots/report1.png)
 
-![Screenshot]()
+![Screenshot](https://raw.githubusercontent.com/moisesGlb/travelCuriousSerenity/main/extras/screenshots/report2.png)
 
 
 
